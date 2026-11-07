@@ -26,15 +26,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sushicut&show_icons=true&hide_border=true&theme=transparent" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" height="150" alt="Top languages" />
-</p>
-
----
-
 ### 🤝 Connect with me
 
 <p align="left">
