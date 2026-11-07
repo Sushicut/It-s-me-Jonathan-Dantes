@@ -30,7 +30,7 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/jonsdantes">LinkedIn</a> ·
-  <a href="dev-jonathan.free.nf">Portfolio</a>
+  <a href="https://dev-jonathan.free.nf">Portfolio</a>
 </p>
 
 <p align="left">
